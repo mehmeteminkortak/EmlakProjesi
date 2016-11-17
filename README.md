@@ -15,7 +15,7 @@ Sql Server 2014 Local Db
 .Net Framework ^4.5
 
 
-Repository'yi indirdikten sonra
+# Repository'yi indirdikten sonra
 
 
 1) Solution'ı sağ tıklayıp Restore Nuget Packages'i tıklayınız
